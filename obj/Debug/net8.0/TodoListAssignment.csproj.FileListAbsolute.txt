@@ -1,0 +1,14 @@
+C:\Users\edhaw\source\repos\TodoListAssignment\bin\Debug\net8.0\TodoListAssignment.exe
+C:\Users\edhaw\source\repos\TodoListAssignment\bin\Debug\net8.0\TodoListAssignment.deps.json
+C:\Users\edhaw\source\repos\TodoListAssignment\bin\Debug\net8.0\TodoListAssignment.runtimeconfig.json
+C:\Users\edhaw\source\repos\TodoListAssignment\bin\Debug\net8.0\TodoListAssignment.dll
+C:\Users\edhaw\source\repos\TodoListAssignment\bin\Debug\net8.0\TodoListAssignment.pdb
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.AssemblyInfoInputs.cache
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.AssemblyInfo.cs
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.dll
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\refint\TodoListAssignment.dll
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.pdb
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.genruntimeconfig.cache
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\ref\TodoListAssignment.dll
