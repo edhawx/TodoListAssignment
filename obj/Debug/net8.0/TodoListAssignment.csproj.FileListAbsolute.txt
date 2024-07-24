@@ -12,3 +12,4 @@ C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\refint\TodoListA
 C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.pdb
 C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.genruntimeconfig.cache
 C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\ref\TodoListAssignment.dll
+C:\Users\edhaw\source\repos\TodoListAssignment\obj\Debug\net8.0\TodoListAssignment.sourcelink.json
